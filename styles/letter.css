@@ -1,0 +1,29 @@
+h1{
+    font-weight: bold;
+}
+.mine{
+    text-align: right;
+ 
+ 
+}
+.theirs{
+    text-align: left;
+    
+}
+.dear{
+    font-size: 20px;
+}
+h2{
+    font-weight:bold;
+    text-decoration: underline;
+    text-align: center;
+
+}
+.conclusion{
+    font-style: italic;
+    text-align: left;
+    margin-top: 30px;
+}
+span{
+    font-weight: bold;
+}
